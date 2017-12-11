@@ -1,0 +1,82 @@
+{
+  "intents": [
+    {
+      "intent": "LightsOnIntent"
+    },
+    {
+      "intent": "LightsOffIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "increaseThermostat",
+          "type": "incrementTemp"
+        }
+      ],
+      "intent": "IncreaseThermostatIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "decreaseThermostat",
+          "type": "incrementTemp"
+        }
+      ],
+      "intent": "DecreaseThermostatIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "setThermostat",
+          "type": "setTemp"
+        }
+      ],
+      "intent": "SetThermostatIntent"
+    },
+    {
+      "intent": "LeavingIntent"
+    },
+    {
+      "intent": "ArrivingIntent"
+    },
+    {
+      "intent": "SleepIntent"
+    },
+    {
+      "intent": "AMAZON.PreviousIntent"
+    },
+    {
+      "intent": "AMAZON.NextIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.ScrollUpIntent"
+    },
+    {
+      "intent": "AMAZON.ScrollLeftIntent"
+    },
+    {
+      "intent": "AMAZON.ScrollDownIntent"
+    },
+    {
+      "intent": "AMAZON.ScrollRightIntent"
+    },
+    {
+      "intent": "AMAZON.PageUpIntent"
+    },
+    {
+      "intent": "AMAZON.PageDownIntent"
+    },
+    {
+      "intent": "AMAZON.MoreIntent"
+    },
+    {
+      "intent": "AMAZON.NavigateSettingsIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
