@@ -1,0 +1,18 @@
+LightsOnIntent Turn the lights on
+LightsOnIntent Flip the lights on
+LightsOnIntent Switch the lights on
+LightsOnIntent Turn on the lights
+LightsOnIntent Switch on the lights
+LightsOnIntent Flip on the lights
+LightsOffIntent Turn the lights off
+LightsOffIntent Flip the lights off
+LightsOffIntent Switch the lights off
+LightsOffIntent Turn off the lights
+LightsOffIntent Switch off the lights
+LightsOffIntent Flip off the lights
+IncreaseThermostatIntent Increase the temperature by {increaseThermostat}
+DecreaseThermostatIntent Decrease the temperature by {decreaseThermostat}
+SetThermostatIntent Set the temperature to {setThermostat}
+LeavingIntent I'm leaving
+ArrivingIntent I'm arriving
+SleepIntent I'm going to sleep
